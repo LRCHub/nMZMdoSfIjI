@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "Type A",
+  "base_artist": "Ricky Montgomery",
+  "createdAt": "2026-03-31T08:06:10.920509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Type A",
+      "artist": "Zebrahead",
+      "has_synced": false,
+      "path": "select/01_Type_A_Zebrahead.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Type A Way - Live",
+      "artist": "Eric Bellinger",
+      "has_synced": false,
+      "path": "select/02_Type_A_Way_-_Live_Eric_Bellinger.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BREAK A HOE TYPE A",
+      "artist": "Memphis Cult feat. NEXNCLXUD & SPLYXER",
+      "has_synced": false,
+      "path": "select/03_BREAK_A_HOE_TYPE_A_Memphis_Cult_feat._NEXNCLXUD_&_SPLYXER.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BREAK A HOE TYPE A",
+      "artist": "Memphis Cult",
+      "has_synced": false,
+      "path": "select/04_BREAK_A_HOE_TYPE_A_Memphis_Cult.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BREAK A HOE TYPE A",
+      "artist": "Memphis Cult, NEXNCLXUD, SPLYXER",
+      "has_synced": false,
+      "path": "select/05_BREAK_A_HOE_TYPE_A_Memphis_Cult,_NEXNCLXUD,_SPLYXER.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Type a Way (feat. Chris Brown & OG Parker)",
+      "artist": "Eric Bellinger feat. Chris Brown & OG Parker",
+      "has_synced": true,
+      "path": "select/06_Type_a_Way_(feat._Chris_Brown_&_OG_Parker)_Eric_Bellinger_feat._Chris_Brown_&_OG_Parker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Type a Way",
+      "artist": "Eric Bellinger Ft. Chris Brown & OG Parker",
+      "has_synced": true,
+      "path": "select/07_Type_a_Way_Eric_Bellinger_Ft._Chris_Brown_&_OG_Parker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Type A Party",
+      "artist": "Ciara",
+      "has_synced": false,
+      "path": "select/08_Type_A_Party_Ciara.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Type A",
+      "artist": "Ricky Montgomery",
+      "has_synced": false,
+      "path": "select/09_Type_A_Ricky_Montgomery.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Type a Way (feat. Chris Brown & OG Parker)",
+      "artist": "Eric Bellinger",
+      "has_synced": true,
+      "path": "select/10_Type_a_Way_(feat._Chris_Brown_&_OG_Parker)_Eric_Bellinger.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Type A Secretor",
+      "artist": "Waking The Cadaver",
+      "has_synced": false,
+      "path": "select/11_Type_A_Secretor_Waking_The_Cadaver.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Type A Personality",
+      "artist": "Most Precious Blood",
+      "has_synced": false,
+      "path": "select/12_Type_A_Personality_Most_Precious_Blood.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All Type a Drugs",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/13_All_Type_a_Drugs_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Type A",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/14_Type_A_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All Type a Drugs (feat. Blood Jay) (feat. Blood Jay)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/15_All_Type_a_Drugs_(feat._Blood_Jay)_(feat._Blood_Jay)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Type a Way (feat. Chris Brown & OG Parker)",
+      "artist": "Eric Bellinger",
+      "has_synced": true,
+      "path": "select/16_Type_a_Way_(feat._Chris_Brown_&_OG_Parker)_Eric_Bellinger.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Type a Way (feat. Chris Brown & OG Parker)",
+      "artist": "Eric Bellinger, Chris Brown, OG Parker",
+      "has_synced": true,
+      "path": "select/17_Type_a_Way_(feat._Chris_Brown_&_OG_Parker)_Eric_Bellinger,_Chris_Brown,_OG_Parker.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Break A HOE TYPE A",
+      "artist": "Memhpsi Cult",
+      "has_synced": false,
+      "path": "select/18_Break_A_HOE_TYPE_A_Memhpsi_Cult.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "BREAK A HOE TYPE A",
+      "artist": "Memphis Cult, NEXNCLXUD",
+      "has_synced": false,
+      "path": "select/19_BREAK_A_HOE_TYPE_A_Memphis_Cult,_NEXNCLXUD.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "My Type",
+      "artist": "Saint Motel",
+      "has_synced": false,
+      "path": "select/20_My_Type_Saint_Motel.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Killing Type",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/21_The_Killing_Type_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Type of Nigga U Need",
+      "artist": "Mike Jones feat. Brighteyes",
+      "has_synced": false,
+      "path": "select/22_Type_of_Nigga_U_Need_Mike_Jones_feat._Brighteyes.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Type Of Nigga U Need (Feat. Brighteyes)",
+      "artist": "Mike Jones",
+      "has_synced": false,
+      "path": "select/23_Type_Of_Nigga_U_Need_(Feat._Brighteyes)_Mike_Jones.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Eye for an Eye (Meat Katies E-Type Dub)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/24_Eye_for_an_Eye_(Meat_Katies_E-Type_Dub)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Your Type",
+      "artist": "Alvvays",
+      "has_synced": true,
+      "path": "select/25_Your_Type_Alvvays.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "My Type",
+      "artist": "The Chainsmokers feat. Emily Warren",
+      "has_synced": true,
+      "path": "select/26_My_Type_The_Chainsmokers_feat._Emily_Warren.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "My Type",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/27_My_Type_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Dangerous Type",
+      "artist": "The Cars",
+      "has_synced": true,
+      "path": "select/28_Dangerous_Type_The_Cars.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Type Slowly",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/29_Type_Slowly_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "The Right Type",
+      "artist": "Chromeo",
+      "has_synced": true,
+      "path": "select/30_The_Right_Type_Chromeo.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Your Type",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/31_Your_Type_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "The Adventurous Type",
+      "artist": "The Divine Comedy",
+      "has_synced": true,
+      "path": "select/32_The_Adventurous_Type_The_Divine_Comedy.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Blood Type O",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/33_Blood_Type_O_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "I'm That Type Of Nigga",
+      "artist": "The Pharcyde",
+      "has_synced": true,
+      "path": "select/34_I'm_That_Type_Of_Nigga_The_Pharcyde.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Type A",
+      "artist": "Ricky Montgomery",
+      "has_synced": false,
+      "path": "select/pl_01_Type_A_Ricky_Montgomery.txt"
+    }
+  ]
+}
